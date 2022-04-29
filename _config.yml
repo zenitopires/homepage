@@ -21,7 +21,7 @@
 title: Zenito Pires
 email: zenitopires@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Nobody's gonna read this, right?
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zenitopires
